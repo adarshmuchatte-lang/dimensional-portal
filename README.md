@@ -1,323 +1,201 @@
-# 🌌 VOID — Into the Unknown
-
-### An Immersive 3D Journey Through Dimensions, Fractured Realities, and the Cosmic Abyss
+# ◈ VOID — INTO THE UNKNOWN
 
 <p align="center">
-  <strong>Where reality ends, the unknown begins.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03020b,25:10082b,55:35116b,80:176b9a,100:03020b&text=V%20O%20I%20D&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=BEYOND%20THE%20BOUNDARIES%20OF%20REALITY&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="VOID — Into the Unknown cinematic dimensional portal banner"/>
 </p>
 
 <p align="center">
-  A cinematic, interactive web experience built with React, Three.js, React Three Fiber, and TypeScript.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=800&color=B9A1FF&center=true&vCenter=true&width=750&lines=INITIALIZING+DIMENSIONAL+GATEWAY...;REALITY+BOUNDARIES%3A+UNDEFINED;ENTERING+FRACTURED+SPACE...;FOUR+CHAPTERS.+ONE+UNKNOWN+UNIVERSE.;WELCOME+TO+THE+VOID." alt="Animated dimensional gateway transmission"/>
+</p>
+
+<p align="center">
+  <strong>WHAT IF A WEBSITE WAS A PORTAL TO ANOTHER UNIVERSE?</strong>
+</p>
+
+<p align="center">
+  A cinematic 3D web experience exploring fractured realities, cosmic dimensions, procedural graphics, and the space beyond existence.
+</p>
+
+<p align="center">
+  <a href="#-enter-the-experience">ENTER THE EXPERIENCE</a> ·
+  <a href="#-the-four-dimensions">THE FOUR DIMENSIONS</a> ·
+  <a href="#-inside-the-engine">INSIDE THE ENGINE</a> ·
+  <a href="#-launch-protocol">LAUNCH PROTOCOL</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-IMMERSIVE%203D-9D7BFF?style=for-the-badge&labelColor=080613" alt="Immersive 3D experience"/>
+  <img src="https://img.shields.io/badge/GRAPHICS-THREE.JS-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=black&labelColor=080613" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/ENGINE-REACT%20THREE%20FIBER-B9A1FF?style=for-the-badge&labelColor=080613" alt="React Three Fiber"/>
+  <img src="https://img.shields.io/badge/SHADERS-GLSL-47C5FF?style=for-the-badge&labelColor=080613" alt="GLSL shaders"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=080613" alt="TypeScript"/>
 </p>
 
 ---
 
-## 📖 Table of Contents
+## ◉ TRANSMISSION 001 — THE AWAKENING
 
-- [Overview](#-overview)
-- [Vision and Concept](#-vision-and-concept)
-- [Features](#-features)
-- [Experience Chapters](#-experience-chapters)
-- [Technology Stack](#-technology-stack)
-- [System Architecture](#-system-architecture)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Installation and Setup](#-installation-and-setup)
-- [Available Commands](#-available-commands)
-- [How It Works](#-how-it-works)
-- [Performance and Accessibility](#-performance-and-accessibility)
-- [Development Guidelines](#-development-guidelines)
-- [Troubleshooting](#-troubleshooting)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
+*Reality is only the beginning.*
 
----
+Imagine entering a digital universe where space bends, light becomes architecture, and a dimensional gateway stands between the familiar and the impossible.
 
-## 🌠 Overview
+**VOID — Into the Unknown** transforms a conventional website into an experimental journey through an imagined multiverse. Built around real-time 3D rendering, procedural cosmic environments, custom GLSL shaders, and scroll-driven storytelling, it explores what happens when creative development becomes an immersive experience.
 
-**VOID — Into the Unknown** is an experimental 3D web experience designed to transform a conventional website into an interactive journey through a mysterious digital universe.
+This is not simply a page with a 3D background.
 
-Instead of relying on static sections and conventional layouts, VOID combines real-time 3D rendering, procedural visual effects, animated cosmic environments, shader-based portal visuals, and cinematic scrolling to create an immersive atmosphere.
+**The dimension is the interface. The journey is the experience.**
 
-The experience guides visitors through four interconnected chapters, each representing a different stage of an imaginary journey beyond the boundaries of reality.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5F32BA,50:B9A1FF,100:1B94C7" width="100%" alt="Dimensional energy divider"/>
+</p>
 
-The project explores how modern web technologies can combine interactive graphics, animation, typography, sound, and storytelling into a cohesive digital experience.
+## ⟡ ENTER THE EXPERIENCE
 
-### Project Highlights
+<details>
+<summary><strong>◈ DIMENSION 01 — THE THRESHOLD</strong></summary>
 
-- Real-time 3D rendering in the browser.
-- Procedurally generated star fields.
-- A custom shader-driven dimensional portal.
-- Interactive camera movement and scroll-based transitions.
-- A cinematic, dark visual aesthetic.
-- Custom pointer interactions and magnetic buttons.
-- Ambient audio controls.
-- Responsive behavior and reduced-motion considerations.
-- A modular React and TypeScript architecture.
+The beginning of the journey.
 
-**Project Type:** Interactive 3D Web Experience  
-**Primary Focus:** Creative Development, Web Graphics, UI/UX, and Immersive Storytelling
+A luminous dimensional gateway introduces the visitor to the unknown. Procedural patterns, animated light, cosmic particles, and a deep atmospheric environment establish the scale of the experience.
 
----
+**Core elements:** Shader-driven portal, luminous energy rings, cosmic starfield, and cinematic composition.
 
-## 🎯 Vision and Concept
+</details>
 
-The central idea behind VOID is simple:
+<details>
+<summary><strong>◈ DIMENSION 02 — FRACTURED REALITY</strong></summary>
 
-> What if exploring a website felt like travelling through another dimension?
+Where the rules of the familiar begin to dissolve.
 
-The interface is designed around the concept of a dimensional gateway. As the visitor moves through the experience, the environment evolves from an initial threshold into increasingly abstract and mysterious cosmic spaces.
+This chapter explores distorted space, broken visual structures, and the idea of realities existing beyond our own.
 
-The visual language uses deep backgrounds, luminous violet and blue tones, atmospheric lighting, and animated geometry to establish a sense of depth and scale.
+**Core direction:** Abstract geometry, spatial distortion, and evolving visual transitions.
 
-The goal is not merely to display 3D graphics, but to integrate them into the navigation and storytelling of the experience.
+</details>
 
-### Design Principles
+<details>
+<summary><strong>◈ DIMENSION 03 — THE COSMIC ABYSS</strong></summary>
 
-**1. Immersion over convention**
+Enter a space where scale becomes incomprehensible.
 
-The 3D environment is the centrepiece of the experience rather than a decorative element placed behind a traditional website.
+The environment expands into a mysterious cosmic expanse, emphasizing isolation, depth, and the feeling of encountering something beyond ordinary understanding.
 
-**2. Motion with purpose**
+**Core direction:** Deep-space atmosphere, scattered stars, dark negative space, and luminous accents.
 
-Scrolling, pointer movement, and transitions contribute to the feeling of travelling through an evolving environment.
+</details>
 
-**3. Minimal visual noise**
+<details>
+<summary><strong>◈ DIMENSION 04 — BEYOND EXISTENCE</strong></summary>
 
-Typography, spacing, and selective visual effects help maintain focus on the central experience.
+The final threshold.
 
-**4. Real-time interaction**
+Familiar visual structures give way to a more abstract environment where the boundaries between space, form, and reality become uncertain.
 
-The scene is rendered dynamically, allowing visual elements to respond to time and user interaction.
+**Core direction:** Minimal spatial composition, restrained illumination, and mysterious transitions.
 
-**5. Modular development**
-
-The experience, scene, audio utilities, and shared state are separated into distinct modules to support maintainability.
+</details>
 
 ---
 
-## ✨ Features
+## ⌘ THE DIMENSIONAL ENGINE
 
-### 🌀 1. Interactive Dimensional Portal
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Three.js-3D%20Rendering-FFFFFF?style=flat-square&logo=threedotjs&logoColor=black" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-Scene%20Integration-9B7BFF?style=flat-square" alt="React Three Fiber"/>
+  <img src="https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-Development%20Engine-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/GLSL-Custom%20Shaders-EC7DFF?style=flat-square" alt="GLSL"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Styling-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
-The dimensional portal is the central visual element of VOID.
+| Technology | Dimensional purpose |
+|---|---|
+| React | Component-based interface and application structure |
+| TypeScript | Maintainable, type-safe application logic |
+| Three.js | Real-time 3D graphics and scene rendering |
+| React Three Fiber | Declarative 3D scenes within React |
+| Drei | Supporting tools for React Three Fiber |
+| GLSL | Custom procedural portal effects |
+| Vite | Development server and build tooling |
+| TanStack Router | Application routing |
+| Tailwind CSS | Interface styling |
+| Web Audio API | Optional ambient audio utilities |
+| Vitest | Automated testing infrastructure |
 
-It uses a custom GLSL shader to generate a swirling, luminous visual effect with a bright inner boundary and an evolving energy field.
+## 🌀 THE PORTAL — CUSTOM SHADER ENGINEERING
 
-The shader combines procedural noise, angular distortion, radial calculations, and animated time-based values to create an abstract portal appearance.
+The dimensional gateway is the central visual concept of VOID.
 
-Key elements include:
+Rather than depending on a pre-rendered video, the portal uses custom shader calculations to create an animated, evolving visual field.
 
-- Animated swirling patterns.
-- Procedural noise-based visual variation.
-- A luminous photon-ring effect.
+**Shader techniques represented in the project:**
+
+- Procedural noise and layered noise calculations.
+- Polar-coordinate transformations.
+- Angular distortion and swirling patterns.
+- Radial masks and luminous ring effects.
+- Time-dependent animation values.
 - Violet, blue, magenta, and white color transitions.
 - Hover-reactive visual intensity.
-- A layered glow and halo effect.
 
-### 🌌 2. Procedural Cosmic Environment
+These techniques demonstrate how mathematical operations executed by the GPU can become an expressive visual experience.
 
-The surrounding environment uses procedurally generated star geometry to establish a sense of vastness and depth.
+## 🌌 PROCEDURAL COSMIC ENVIRONMENT
 
-The star field uses generated positions and vertex colors to create a varied cosmic backdrop.
+The surrounding universe uses generated star positions and vertex colors to create a sense of depth and scale.
 
-This approach reduces the need for individual image assets for the star field and allows the environment to be rendered directly by the graphics engine.
+Instead of requiring a separate image for every star, the environment can represent the starfield through generated geometry and point rendering.
 
-### 🎥 3. Scroll-Driven Cinematic Transitions
+The result is a procedural backdrop that supports the portal without competing with it.
 
-Scrolling is integrated into the experience's progression through the different chapters.
+## 🎥 SCROLL-DRIVEN STORYTELLING
 
-The application tracks scroll progress and shares that information with the 3D scene, allowing camera positioning and visual composition to evolve with the visitor's journey.
+Scrolling is part of the navigation and narrative design.
 
-The intended effect is to make navigation feel like moving through an environment rather than jumping between unrelated content sections.
+The application tracks scroll progress and shares experience state with the 3D scene, providing a foundation for camera movement and transitions between chapters.
 
-### 🖱️ 4. Interactive Pointer Effects
+Other interactive details include:
 
-VOID incorporates custom pointer interactions for compatible desktop devices.
-
-These include:
-
-- An animated pointer dot.
-- A smoothly following outer cursor ring.
-- Enlarged cursor feedback over interactive elements.
-- Magnetic button movement based on pointer position.
+- Custom animated cursor effects.
+- Pointer-responsive magnetic buttons.
 - Hover-sensitive visual feedback.
-
-These details add responsiveness without requiring a conventional cursor trail library.
-
-### 🎧 5. Ambient Audio Controls
-
-The project includes an audio utility module for creating an ambient drone and controls for enabling or disabling sound.
-
-The audio is intended to complement the visual experience with a subtle atmospheric layer.
-
-Audio remains optional so visitors can explore the experience without sound.
-
-### 🌑 6. Four Narrative Chapters
-
-The experience is organized into four chapters:
-
-1. The Threshold
-2. Fractured Reality
-3. The Cosmic Abyss
-4. Beyond Existence
-
-Each chapter contributes to the broader narrative of crossing a gateway into an unfamiliar universe.
-
-### ⏳ 7. Immersive Loading Screen
-
-A custom initialization screen introduces the experience before the main environment becomes available.
-
-It features an animated progress indicator, a percentage display, and a minimal visual treatment consistent with the overall design.
-
-### 📱 8. Responsive and Adaptive Behavior
-
-The application includes logic that considers viewport width, available hardware concurrency, and the user's reduced-motion preference when selecting a lower-intensity rendering mode.
-
-This provides a foundation for adapting the experience to different devices and accessibility preferences.
-
-### 🎨 9. Custom Visual Design
-
-The interface uses a deliberately restrained visual palette and custom styling to maintain a consistent atmosphere.
-
-Design elements include:
-
-- Dark backgrounds.
-- Ultraviolet and cosmic blue accents.
-- Monospaced labels.
-- Cinematic typography and spacing.
-- Fine borders and restrained highlights.
-- Animated transitions and interactive controls.
-
-### 🧩 10. Component-Based Architecture
-
-The project uses React components and TypeScript to separate interface logic from 3D rendering.
-
-The main experience, scene components, audio utilities, shared state, routing, and reusable UI components are maintained in separate files.
-
-This makes it easier to improve individual features without rewriting the entire application.
+- An initialization screen with a progress indicator.
+- Optional ambient audio controls.
+- Responsive rendering behavior.
+- Reduced-motion considerations.
 
 ---
 
-## 🚀 Experience Chapters
-
-### Chapter 01 — The Threshold
-
-The journey begins at the gateway.
-
-Light begins to bend, the environment establishes its scale, and the visitor is introduced to the dimensional portal.
-
-**Visual direction:** Luminous portal geometry, cosmic particles, dark negative space, and subtle motion.
-
-### Chapter 02 — Fractured Reality
-
-The journey moves into a universe where familiar structures no longer follow familiar rules.
-
-The chapter explores the idea of fragmented space, distorted reflections, and alternate realities.
-
-**Visual direction:** Abstract geometry, shifting spatial relationships, and increasingly surreal imagery.
-
-### Chapter 03 — The Cosmic Abyss
-
-The environment expands into a vast and mysterious cosmic space.
-
-The narrative emphasizes isolation, scale, and the feeling of encountering something beyond ordinary understanding.
-
-**Visual direction:** Deep space, scattered cosmic matter, luminous accents, and atmospheric depth.
-
-### Chapter 04 — Beyond Existence
-
-The final chapter explores the boundary between structure and abstraction.
-
-Space appears to fold inward, and familiar visual references gradually give way to a more minimal and mysterious environment.
-
-**Visual direction:** Abstract spatial composition, restrained lighting, and an atmosphere of uncertainty.
-
----
-
-## 🛠️ Technology Stack
-
-| Technology | Purpose |
-|---|---|
-| React 19 | Component-based user interface |
-| TypeScript | Type safety and maintainable application logic |
-| Three.js | Real-time 3D graphics and rendering |
-| React Three Fiber | Declarative Three.js rendering within React |
-| @react-three/drei | Supporting utilities for React Three Fiber |
-| Vite | Development server and build tooling |
-| TanStack Start | Application framework and startup infrastructure |
-| TanStack Router | Application routing |
-| Tailwind CSS 4 | Utility-based styling |
-| Radix UI | Accessible interface primitives |
-| Lucide React | Icons |
-| GLSL | Custom shader programming |
-| Web Audio API | Browser-based ambient audio utilities |
-| ESLint | Code quality and linting |
-| Prettier | Code formatting |
-| Vitest | Test runner |
-
-The repository also includes supporting libraries for component interactions, form handling, validation, charts, date utilities, and other reusable interface functionality.
-
----
-
-## 🏗️ System Architecture
-
-The application follows a component-oriented architecture with a dedicated rendering layer for the immersive 3D experience.
+## ⟁ SYSTEM ARCHITECTURE
 
 ```mermaid
 flowchart TD
-    A[Browser] --> B[React Application]
-    B --> C[TanStack Router]
-    C --> D[Experience Component]
-    D --> E[Interface and Interactions]
-    D --> F[React Three Fiber Canvas]
-    D --> G[Audio Utilities]
-    D --> H[Shared Experience State]
-    F --> I[Three.js Scene]
-    I --> J[Procedural Star Field]
-    I --> K[Shader-Based Portal]
-    I --> L[Animated 3D Objects]
-    E --> M[Scroll and Pointer Input]
-    M --> H
-    H --> I
+    A["VOID EXPERIENCE"] --> B["React Application"]
+    B --> C["Interface & Navigation"]
+    B --> D["React Three Fiber"]
+    B --> E["Shared Experience State"]
+    B --> F["Audio Utilities"]
+    D --> G["Three.js Scene"]
+    G --> H["Dimensional Portal"]
+    G --> I["Procedural Starfield"]
+    G --> J["Lighting & Geometry"]
+    C --> K["Scroll & Pointer Input"]
+    K --> E
+    E --> D
+    style A fill:#120b2c,stroke:#b9a1ff,color:#ffffff
+    style H fill:#251048,stroke:#c29cff,color:#ffffff
+    style I fill:#07182a,stroke:#47c5ff,color:#ffffff
 ```
 
-### Architecture Components
+The project separates the primary experience, scene rendering, audio utilities, shared state, routes, and reusable interface components into dedicated modules.
 
-**Experience Layer**
+This architecture makes it easier to refine individual visual effects without restructuring the entire application.
 
-The main experience component coordinates loading behavior, chapter navigation, user interaction, audio controls, and the 3D canvas.
-
-**Rendering Layer**
-
-React Three Fiber provides the React integration for the Three.js scene. The scene contains the portal visuals, star field, lighting, and animated elements.
-
-**Shader Layer**
-
-Custom GLSL code calculates portal colors, procedural noise, swirling patterns, and luminous effects on the GPU.
-
-**Interaction Layer**
-
-Pointer movement, scrolling, button interaction, and audio controls provide the primary user inputs.
-
-**Shared State Layer**
-
-A shared state module communicates experience information, such as scroll progress, between the interface and the 3D scene.
-
-**Routing Layer**
-
-TanStack Router provides the application's route configuration and metadata.
-
----
-
-## 📂 Project Structure
-
-The primary application files are organized as follows:
+## 📂 PROJECT STRUCTURE
 
 ```text
-dimensional-portal/
+VOID/
 ├── public/
 │   ├── favicon.ico
 │   └── robots.txt
@@ -325,8 +203,6 @@ dimensional-portal/
 ├── src/
 │   ├── components/
 │   │   ├── ui/
-│   │   │   └── Reusable UI components
-│   │   │
 │   │   └── void/
 │   │       ├── Experience.tsx
 │   │       ├── Scene.tsx
@@ -334,22 +210,9 @@ dimensional-portal/
 │   │       └── state.ts
 │   │
 │   ├── hooks/
-│   │   └── use-mobile.tsx
-│   │
 │   ├── lib/
-│   │   ├── error-capture.ts
-│   │   ├── error-page.ts
-│   │   ├── lovable-error-reporting.ts
-│   │   └── utils.ts
-│   │
 │   ├── routes/
-│   │   ├── __root.tsx
-│   │   └── index.tsx
-│   │
 │   ├── test/
-│   │   ├── app-routing.test.tsx
-│   │   └── setup.ts
-│   │
 │   ├── router.tsx
 │   ├── routeTree.gen.ts
 │   ├── server.ts
@@ -361,351 +224,137 @@ dimensional-portal/
 ├── vite.config.ts
 ├── tsconfig.json
 ├── eslint.config.js
-├── components.json
 └── README.md
 ```
 
-*Note: Generated files and some configuration files may vary as the project evolves.*
-
-### Important Source Files
-
-| File | Responsibility |
-|---|---|
-| `Experience.tsx` | Main interactive experience, loading UI, chapter navigation, cursor behavior, and audio controls |
-| `Scene.tsx` | Three.js scene, procedural star field, shader-driven portal, and 3D visuals |
-| `audio.ts` | Ambient audio utilities |
-| `state.ts` | Shared state for the 3D experience |
-| `index.tsx` | Main route and page metadata |
-| `__root.tsx` | Root application layout |
-| `styles.css` | Global styles and visual design |
-| `router.tsx` | Router configuration |
-| `vite.config.ts` | Development and build configuration |
-| `package.json` | Dependencies and development scripts |
+*The structure reflects the supplied project documentation. Individual files may change as development progresses.*
 
 ---
 
-## 💻 Getting Started
+## 🚀 LAUNCH PROTOCOL
 
-### Prerequisites
+### Requirements
 
-Before running the project, ensure that you have:
-
-- Node.js installed.
-- npm installed, or Bun if you prefer using the included Bun lockfile.
-- Git installed.
+- Node.js and npm, or Bun.
+- Git.
 - A modern browser with WebGL support.
 - A code editor such as Visual Studio Code.
 
-Recommended: use a current Node.js LTS release compatible with the installed Vite version.
+### 01 — Clone the repository
 
-Check your installation:
-
-```bash
-node --version
-npm --version
-git --version
-```
-
----
-
-## ⚙️ Installation and Setup
-
-### Option 1 — Run Locally with npm
-
-**Step 1: Clone the repository**
-
-Replace the repository URL below with your actual GitHub repository URL.
+Replace the example URL with the actual repository URL if your repository uses a different name.
 
 ```bash
 git clone https://github.com/adarshmuchatte-lang/dimensional-portal.git
 ```
 
-**Step 2: Enter the project directory**
+### 02 — Enter the project directory
 
 ```bash
 cd dimensional-portal
 ```
 
-If you cloned a repository containing the project files directly, you can run the commands from that directory.
-
-**Step 3: Install dependencies**
+### 03 — Install dependencies
 
 ```bash
 npm install
 ```
 
-**Step 4: Start the development server**
+### 04 — Initialize the experience
 
 ```bash
 npm run dev
 ```
 
-**Step 5: Open the local website**
+### 05 — Enter the dimension
 
-Vite will display the local development URL in your terminal. Open that address in your browser, commonly:
+Open the local development URL printed in your terminal. Vite commonly uses:
 
 ```text
 http://localhost:5173
 ```
 
-The exact port may vary if the default port is already occupied.
-
-### Option 2 — Run with Bun
-
-The repository contains a `bun.lock` file, so Bun can also be used.
-
-```bash
-bun install
-bun run dev
-```
-
-Use one package manager consistently to avoid unnecessary lockfile differences.
-
-### Create a Production Build
-
-To create an optimized production build:
+### Production build
 
 ```bash
 npm run build
-```
-
-To preview the generated build locally:
-
-```bash
 npm run preview
 ```
 
-The production build and preview commands should be tested in your environment before deployment.
+The preview command serves the production build locally. Confirm that the build and preview work correctly before deployment.
 
 ---
 
-## 📜 Available Commands
+## ⚡ PERFORMANCE & ACCESSIBILITY
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start the development server |
-| `npm run build` | Generate a production build |
-| `npm run build:dev` | Generate a development-mode build |
-| `npm run preview` | Preview the production build |
-| `npm run lint` | Run ESLint |
-| `npm run format` | Format files with Prettier |
-| `npm test` | Run the Vitest test suite |
-| `npm run test:watch` | Run tests in watch mode |
+A visually ambitious 3D experience must also account for the devices running it.
 
----
+VOID includes a foundation for adaptive rendering and accessibility-conscious interaction.
 
-## 🧠 How It Works
+- Responsive layout behavior.
+- Consideration of reduced-motion preferences.
+- Lower-intensity behavior for certain viewport and hardware conditions.
+- GPU-based shader calculations.
+- Procedural geometry for the starfield.
+- Optional audio rather than mandatory sound.
 
-### 1. Real-Time 3D Rendering
+**Next-level optimization opportunities:**
 
-The scene is rendered through a Three.js canvas integrated into the React component tree using React Three Fiber.
-
-This allows the 3D environment to be described through reusable components while still taking advantage of Three.js geometry, materials, shaders, and rendering capabilities.
-
-### 2. Procedural Star Generation
-
-The star field generates particle positions and colors through deterministic pseudo-random calculations.
-
-The generated data is stored in buffer geometry and rendered as points, providing an efficient way to represent a large cosmic background.
-
-### 3. Shader-Based Portal
-
-The portal uses a custom vertex shader and fragment shader.
-
-The fragment shader combines several techniques:
-
-- UV coordinate transformations.
-- Polar coordinate calculations.
-- Angular distortion.
-- Procedural noise.
-- Fractal-style noise accumulation.
-- Radial masks.
-- Animated time uniforms.
-- Color interpolation.
-- A luminous ring effect.
-
-The shader produces the portal's evolving appearance without requiring a pre-rendered portal video.
-
-### 4. Scroll-Based Scene Progression
-
-The experience tracks document scroll progress and exposes it through shared state.
-
-The scene can use this progress to update the camera's position and create transitions between different visual stages.
-
-This connects the narrative flow of the page to the underlying 3D environment.
-
-### 5. Pointer Interaction
-
-Pointer coordinates are used to calculate cursor positions and magnetic button offsets.
-
-The visual feedback is updated during interaction, allowing interface elements to respond naturally to movement.
-
-### 6. Ambient Audio
-
-The audio module provides utilities for generating an ambient sound layer through browser audio capabilities.
-
-The interface includes a sound control so visitors can choose whether to enable the experience's audio.
-
----
-
-## ⚡ Performance and Accessibility
-
-Real-time 3D graphics require careful consideration of rendering cost, browser capabilities, and user preferences.
-
-The project includes a foundation for adaptive behavior, with additional optimization opportunities as the experience develops.
-
-### Current Considerations
-
-- A lower-intensity mode can be selected for narrow viewports.
-- Hardware concurrency is considered when selecting rendering behavior.
-- The user's reduced-motion preference is considered.
-- The star field uses buffer geometry and point rendering.
-- Shader calculations are executed by the GPU.
-- Audio is optional.
-
-### Recommended Improvements
-
-- Test on integrated GPUs and lower-powered mobile devices.
-- Monitor frame rate and memory usage.
-- Avoid unnecessary object creation during animation frames.
-- Reduce particle counts when rendering performance declines.
-- Respect reduced-motion preferences across all animations.
-- Ensure text contrast and keyboard navigation remain accessible.
-- Test the audio control and all interactive buttons.
-- Profile the production build rather than relying only on development performance.
-
-**Performance note:** Actual frame rates depend on the device, browser, graphics hardware, viewport size, and scene complexity.
-
----
-
-## 🧪 Testing and Quality Assurance
-
-Before publishing a release, verify the following:
-
-- [ ] The application starts without runtime errors.
-- [ ] The portal renders correctly.
-- [ ] The star field is visible.
-- [ ] All four narrative chapters are present.
-- [ ] Scroll navigation behaves as expected.
-- [ ] Interactive buttons respond correctly.
-- [ ] Magnetic pointer effects work on compatible devices.
-- [ ] Audio can be enabled and disabled.
-- [ ] The layout works on desktop and mobile screens.
-- [ ] Reduced-motion behavior is checked.
-- [ ] The production build completes successfully.
-- [ ] No private credentials or environment secrets are committed.
-
-Run the available checks:
-
-```bash
-npm run lint
-npm test
-npm run build
-```
-
-Resolve any failures before treating the release as production-ready.
-
----
-
-## 🔮 Future Enhancements
-
-VOID provides a foundation for further experimentation with immersive web technologies.
-
-Potential future improvements include:
-
-### Advanced Graphics
-
-- More complex portal geometry and orbital structures.
-- Volumetric-looking light and atmospheric fog.
-- Additional shader effects and procedural materials.
-- More elaborate cosmic environments.
-- Enhanced transitions between chapter-specific scenes.
-
-### Interaction
-
-- More interactive objects within the 3D environment.
-- Additional camera controls.
-- Clickable objects that reveal contextual information.
-- More responsive portal behavior.
-- Optional keyboard navigation through the chapters.
-
-### Audio
-
-- Additional ambient soundscapes.
-- More nuanced sound transitions.
-- Better synchronization between audio and scene events.
-- A persistent sound preference.
-
-### Performance
-
-- Adaptive quality settings.
-- More detailed GPU performance profiling.
-- Dynamic particle scaling.
-- Further mobile-specific optimization.
+- Adaptive particle counts.
+- Frame-rate and GPU profiling.
+- Further mobile-specific interaction testing.
+- Reduced-motion alternatives for more animations.
+- Keyboard navigation and focus testing.
 - Improved loading and asset management.
 
-### Deployment and Portfolio
-
-- Production deployment with a public demo URL.
-- Automated build and deployment through GitHub Actions.
-- Screenshots and a project demonstration video.
-- Performance testing across multiple browsers.
-- A documented release process.
-
-These are proposed enhancements, not claims that every feature is already implemented.
+Performance varies with the device, browser, graphics hardware, and scene complexity.
 
 ---
 
-## 🤝 Contributing
+## 🔮 BEYOND THE CURRENT DIMENSION
 
-Contributions, suggestions, and experiments are welcome.
+The next evolution of VOID could explore:
 
-To work on a change:
+- [ ] More complex dimensional portals and orbital structures.
+- [ ] Additional explorable 3D objects.
+- [ ] More elaborate transitions between the four chapters.
+- [ ] Interactive objects with contextual information.
+- [ ] Additional atmospheric environments.
+- [ ] Optional ambient soundscapes.
+- [ ] Adaptive visual quality and particle scaling.
+- [ ] Further mobile and accessibility testing.
+- [ ] A cinematic project demonstration video.
+- [ ] A public production deployment.
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Run the relevant quality checks.
-5. Submit a pull request with a clear description.
-
-Example:
-
-```bash
-git checkout -b feature/new-cosmic-effect
-```
-
-Keep changes focused and avoid introducing unnecessary dependencies.
+These are possible future improvements, not features claimed to be implemented already.
 
 ---
 
-## 📄 License
-
-No license has currently been selected for this repository.
-
-Until a license is added, the project should not be assumed to be available for unrestricted redistribution or reuse. Add an appropriate license file if you intend to grant others explicit usage rights.
-
-Review the licenses of third-party dependencies and assets separately.
-
----
-
-## 👨‍💻 Author
+## ◈ THE CREATOR
 
 **Adarsh Muchatte**
 
-Information Technology Undergraduate | Web Development | Interactive 3D Experiences
+Information Technology Undergraduate · Creative Development · Interactive 3D Web Experiences
 
 GitHub: [@adarshmuchatte-lang](https://github.com/adarshmuchatte-lang)
 
 ---
 
-## 🌌 Final Note
-
-VOID is an exploration of what becomes possible when web development meets real-time graphics and interactive storytelling.
-
-By combining React, TypeScript, Three.js, shader programming, and carefully designed motion, the project aims to create an experience that feels less like browsing a page and more like entering another world.
-
-**Enter the threshold. Explore the unknown. Go beyond existence.**
+## ✦ FINAL TRANSMISSION
 
 <p align="center">
-  <strong>VOID — Into the Unknown</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03020b,35:170b35,65:35116b,100:176b9a&section=footer&text=BEYOND%20EXISTENCE&fontColor=ffffff&fontSize=35&fontAlignY=43&desc=THE%20UNKNOWN%20IS%20CALLING&descSize=13&descAlignY=63" width="100%" alt="VOID — Beyond Existence closing banner"/>
+</p>
+
+<p align="center">
+  <strong>REALITY IS THE FIRST LAYER.</strong><br/>
+  <strong>THE UNKNOWN IS EVERYTHING BEYOND IT.</strong>
+</p>
+
+<p align="center">
+  <code>VOID / INTO THE UNKNOWN / END OF TRANSMISSION</code>
+</p>
+
+<p align="center">
+  <sub>An experimental 3D web experience built with React, Three.js, TypeScript, and custom shader techniques.</sub>
 </p>
